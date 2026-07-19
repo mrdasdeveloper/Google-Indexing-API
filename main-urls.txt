@@ -1,0 +1,79 @@
+# main-urls.txt — main ranking pages (no geo city pages)
+# Site: https://www.rameshdas.dev
+# Generated: 2026-07-16T00:51:46Z
+# Total: 64
+# Purpose: prioritize content work for search ranking
+
+# === 1. Core commercial & pillar pages ===
+https://www.rameshdas.dev/
+https://www.rameshdas.dev/hire-ai-full-stack-engineer.html
+https://www.rameshdas.dev/hire-full-stack-developer.html
+https://www.rameshdas.dev/hire-backend-engineer.html
+https://www.rameshdas.dev/agentic-ai-developer.html
+https://www.rameshdas.dev/full-stack-ai-engineer.html
+https://www.rameshdas.dev/microservices-architecture.html
+https://www.rameshdas.dev/business-automation.html
+https://www.rameshdas.dev/freelancer.html
+https://www.rameshdas.dev/services.html
+https://www.rameshdas.dev/hire-custom-web-development-company.html
+https://www.rameshdas.dev/who-needs-custom-web-development.html
+https://www.rameshdas.dev/contact.html
+
+# === 2. /pages/ keyword landing pages ===
+https://www.rameshdas.dev/pages/
+https://www.rameshdas.dev/pages/ai-automation-engineer/
+https://www.rameshdas.dev/pages/best-custom-website-developer/
+https://www.rameshdas.dev/pages/chatbot-developer/
+https://www.rameshdas.dev/pages/hire-full-stack-developer/
+https://www.rameshdas.dev/pages/hire-nodejs-developer/
+https://www.rameshdas.dev/pages/hire-python-developer/
+https://www.rameshdas.dev/pages/hire-remote-software-engineer/
+https://www.rameshdas.dev/pages/hire-saas-developer/
+https://www.rameshdas.dev/pages/software-developer-to-hire/
+https://www.rameshdas.dev/pages/website-developer/
+
+# === 3. Custom web development content cluster ===
+https://www.rameshdas.dev/custom-web-development-client-involvement.html
+https://www.rameshdas.dev/custom-web-development-cms-integration.html
+https://www.rameshdas.dev/custom-web-development-contract-questions.html
+https://www.rameshdas.dev/custom-web-development-deliverables.html
+https://www.rameshdas.dev/custom-web-development-ecommerce.html
+https://www.rameshdas.dev/custom-web-development-feature-updates.html
+https://www.rameshdas.dev/custom-web-development-full-stack.html
+https://www.rameshdas.dev/custom-web-development-integrations.html
+https://www.rameshdas.dev/custom-web-development-maintenance.html
+https://www.rameshdas.dev/custom-web-development-mobile.html
+https://www.rameshdas.dev/custom-web-development-post-launch-support.html
+https://www.rameshdas.dev/custom-web-development-pricing.html
+https://www.rameshdas.dev/custom-web-development-project-timelines.html
+https://www.rameshdas.dev/custom-web-development-prototype-demo.html
+https://www.rameshdas.dev/custom-web-development-scalable-architecture.html
+https://www.rameshdas.dev/custom-web-development-security.html
+https://www.rameshdas.dev/custom-web-development-seo.html
+https://www.rameshdas.dev/custom-web-development-ux-design.html
+
+# === 4. Country hub pages ===
+https://www.rameshdas.dev/hire-developers-australia.html
+https://www.rameshdas.dev/hire-developers-canada.html
+https://www.rameshdas.dev/hire-developers-germany.html
+https://www.rameshdas.dev/hire-developers-japan.html
+https://www.rameshdas.dev/hire-developers-middle-east.html
+https://www.rameshdas.dev/hire-developers-saudi-arabia.html
+https://www.rameshdas.dev/hire-developers-uk.html
+https://www.rameshdas.dev/hire-developers-usa.html
+
+# === 5. Additional root content pages (not in sitemap-main) ===
+https://www.rameshdas.dev/best-post-launch-support-custom-web-development-service.html
+https://www.rameshdas.dev/businesses-benefit-most-from-custom-web-development-services.html
+https://www.rameshdas.dev/client-involvement-during-custom-web-development-project.html
+https://www.rameshdas.dev/custom-web-developers-content-management-system-integration.html
+https://www.rameshdas.dev/custom-web-developers-maintenance-packages-after-launch.html
+https://www.rameshdas.dev/custom-web-developers-website-updates-feature-additions.html
+https://www.rameshdas.dev/custom-web-development-companies-mobile-optimization.html
+https://www.rameshdas.dev/custom-web-development-firm-frontend-and-backend-work.html
+https://www.rameshdas.dev/custom-web-development-firms-scalable-websites.html
+https://www.rameshdas.dev/custom-web-development-providers-seo-friendly-site-builds.html
+https://www.rameshdas.dev/custom-web-development-services-ecommerce-sites.html
+https://www.rameshdas.dev/custom-web-development-third-party-tools-integration.html
+https://www.rameshdas.dev/custom-web-development-user-experience-design-services.html
+https://www.rameshdas.dev/demo-or-prototype-before-custom-web-development-project.html
