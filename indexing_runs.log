@@ -1,1 +1,172 @@
 
+
+[2026-07-19 18:38:23 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:38:23 UTC] RUN START  | total_tracked=0 queued=0 (main=0 retry-403=0) batch=0 quota=0/200
+[2026-07-19 18:38:23 UTC] DONE     | Nothing left to submit. All URLs are submitted or skipped.
+[2026-07-19 18:38:23 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:39:58 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:39:58 UTC] RUN START  | total_tracked=0 queued=0 (main=0 retry-403=0) batch=0 quota=0/200
+[2026-07-19 18:39:58 UTC] DONE     | Nothing left to submit. All URLs are submitted or skipped.
+[2026-07-19 18:39:58 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:42:04 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:42:04 UTC] RUN START  [DRY-RUN] | total_tracked=64 queued=64 (main=64 retry-403=0) batch=64 quota=0/200
+[2026-07-19 18:42:04 UTC] DRY-RUN  | Would submit 64 URLs:
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-ai-full-stack-engineer.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-full-stack-developer.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-backend-engineer.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/agentic-ai-developer.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/full-stack-ai-engineer.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/microservices-architecture.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/business-automation.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/freelancer.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/services.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-custom-web-development-company.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/who-needs-custom-web-development.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/contact.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/ai-automation-engineer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/best-custom-website-developer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/chatbot-developer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-full-stack-developer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-nodejs-developer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-python-developer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-remote-software-engineer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-saas-developer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/software-developer-to-hire/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/website-developer/
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-client-involvement.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-cms-integration.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-contract-questions.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-deliverables.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-ecommerce.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-feature-updates.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-full-stack.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-integrations.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-maintenance.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-mobile.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-post-launch-support.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-pricing.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-project-timelines.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-prototype-demo.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-scalable-architecture.html
+[2026-07-19 18:42:04 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-security.html
+[2026-07-19 18:42:04 UTC]   ... and 24 more
+[2026-07-19 18:42:04 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:42:12 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:42:12 UTC] RUN START  | total_tracked=64 queued=64 (main=64 retry-403=0) batch=64 quota=0/200
+[2026-07-19 18:42:13 UTC] AUTH     | Google Indexing API authenticated ✅
+[2026-07-19 18:42:13 UTC] SANITY   | Pre-run permission check …
+[2026-07-19 18:42:14 UTC] SANITY   | Tested https://www.rameshdas.dev/ → HTTP 200
+[2026-07-19 18:42:14 UTC] SANITY   | Permission confirmed ✅ — service account is authorized
+[2026-07-19 18:42:15 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/
+[2026-07-19 18:42:16 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/hire-ai-full-stack-engineer.html
+[2026-07-19 18:42:17 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/hire-full-stack-developer.html
+[2026-07-19 18:42:17 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/hire-backend-engineer.html
+[2026-07-19 18:42:18 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/agentic-ai-developer.html
+[2026-07-19 18:42:19 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/full-stack-ai-engineer.html
+[2026-07-19 18:42:20 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/microservices-architecture.html
+[2026-07-19 18:42:20 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/business-automation.html
+[2026-07-19 18:42:21 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/freelancer.html
+[2026-07-19 18:42:22 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/services.html
+[2026-07-19 18:42:23 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/hire-custom-web-development-company.html
+[2026-07-19 18:42:24 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/who-needs-custom-web-development.html
+[2026-07-19 18:42:24 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/contact.html
+[2026-07-19 18:42:25 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/
+[2026-07-19 18:42:26 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/ai-automation-engineer/
+[2026-07-19 18:42:27 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/best-custom-website-developer/
+[2026-07-19 18:42:27 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/chatbot-developer/
+[2026-07-19 18:42:28 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/hire-full-stack-developer/
+[2026-07-19 18:42:29 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/hire-nodejs-developer/
+[2026-07-19 18:42:30 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/hire-python-developer/
+[2026-07-19 18:42:31 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/hire-remote-software-engineer/
+[2026-07-19 18:42:31 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/hire-saas-developer/
+[2026-07-19 18:42:32 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/software-developer-to-hire/
+[2026-07-19 18:42:33 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/pages/website-developer/
+[2026-07-19 18:42:34 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-client-involvement.html
+[2026-07-19 18:42:34 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-cms-integration.html
+[2026-07-19 18:42:35 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-contract-questions.html
+[2026-07-19 18:42:36 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-deliverables.html
+[2026-07-19 18:42:37 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-ecommerce.html
+[2026-07-19 18:42:38 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-feature-updates.html
+[2026-07-19 18:42:38 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-full-stack.html
+[2026-07-19 18:42:39 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-integrations.html
+[2026-07-19 18:42:40 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-maintenance.html
+[2026-07-19 18:42:41 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-mobile.html
+[2026-07-19 18:42:41 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-post-launch-support.html
+[2026-07-19 18:42:42 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-pricing.html
+[2026-07-19 18:42:43 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-project-timelines.html
+[2026-07-19 18:42:44 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-prototype-demo.html
+[2026-07-19 18:42:44 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-scalable-architecture.html
+[2026-07-19 18:42:45 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-security.html
+[2026-07-19 18:42:46 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-seo.html
+[2026-07-19 18:42:47 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-ux-design.html
+[2026-07-19 18:42:47 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/best-post-launch-support-custom-web-development-service.html
+[2026-07-19 18:42:48 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/businesses-benefit-most-from-custom-web-development-services.html
+[2026-07-19 18:42:49 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/client-involvement-during-custom-web-development-project.html
+[2026-07-19 18:42:50 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-developers-content-management-system-integration.html
+[2026-07-19 18:42:50 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-developers-maintenance-packages-after-launch.html
+[2026-07-19 18:42:51 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-developers-website-updates-feature-additions.html
+[2026-07-19 18:42:52 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-companies-mobile-optimization.html
+[2026-07-19 18:42:53 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-firm-frontend-and-backend-work.html
+[2026-07-19 18:42:53 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-firms-scalable-websites.html
+[2026-07-19 18:42:54 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-providers-seo-friendly-site-builds.html
+[2026-07-19 18:42:55 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-services-ecommerce-sites.html
+[2026-07-19 18:42:56 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-third-party-tools-integration.html
+[2026-07-19 18:42:57 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/custom-web-development-user-experience-design-services.html
+[2026-07-19 18:42:57 UTC] SUBMITTED  | [CORE]                             https://www.rameshdas.dev/demo-or-prototype-before-custom-web-development-project.html
+[2026-07-19 18:42:58 UTC] SUBMITTED  | [HUB][AUSTRALIA]                   https://www.rameshdas.dev/hire-developers-australia.html
+[2026-07-19 18:42:59 UTC] SUBMITTED  | [HUB][CANADA]                      https://www.rameshdas.dev/hire-developers-canada.html
+[2026-07-19 18:43:00 UTC] SUBMITTED  | [HUB][GERMANY]                     https://www.rameshdas.dev/hire-developers-germany.html
+[2026-07-19 18:43:00 UTC] SUBMITTED  | [HUB][JAPAN]                       https://www.rameshdas.dev/hire-developers-japan.html
+[2026-07-19 18:43:01 UTC] SUBMITTED  | [HUB][MIDDLE-EAST]                 https://www.rameshdas.dev/hire-developers-middle-east.html
+[2026-07-19 18:43:02 UTC] SUBMITTED  | [HUB][SAUDI-ARABIA]                https://www.rameshdas.dev/hire-developers-saudi-arabia.html
+[2026-07-19 18:43:03 UTC] SUBMITTED  | [HUB][UK]                          https://www.rameshdas.dev/hire-developers-uk.html
+[2026-07-19 18:43:04 UTC] SUBMITTED  | [HUB][USA]                         https://www.rameshdas.dev/hire-developers-usa.html
+[2026-07-19 18:43:04 UTC] RUN END    | submitted=64 forbidden-403=0 failed=0 not-live=0 remaining=0 quota=64/200 reason=completed
+[2026-07-19 18:43:04 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:43:55 UTC] ────────────────────────────────────────────────────────────────────────
+[2026-07-19 18:43:55 UTC] RUN START  [DRY-RUN] | total_tracked=64 queued=64 (main=64 retry-403=0) batch=64 quota=0/200
+[2026-07-19 18:43:55 UTC] DRY-RUN  | Would submit 64 URLs:
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-ai-full-stack-engineer.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-full-stack-developer.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-backend-engineer.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/agentic-ai-developer.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/full-stack-ai-engineer.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/microservices-architecture.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/business-automation.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/freelancer.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/services.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/hire-custom-web-development-company.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/who-needs-custom-web-development.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/contact.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/ai-automation-engineer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/best-custom-website-developer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/chatbot-developer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-full-stack-developer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-nodejs-developer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-python-developer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-remote-software-engineer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/hire-saas-developer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/software-developer-to-hire/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/pages/website-developer/
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-client-involvement.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-cms-integration.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-contract-questions.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-deliverables.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-ecommerce.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-feature-updates.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-full-stack.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-integrations.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-maintenance.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-mobile.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-post-launch-support.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-pricing.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-project-timelines.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-prototype-demo.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-scalable-architecture.html
+[2026-07-19 18:43:55 UTC]   WOULD   | [CORE]                           https://www.rameshdas.dev/custom-web-development-security.html
+[2026-07-19 18:43:55 UTC]   ... and 24 more
+[2026-07-19 18:43:55 UTC] ────────────────────────────────────────────────────────────────────────
