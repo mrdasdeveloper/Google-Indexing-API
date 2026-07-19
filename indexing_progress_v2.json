@@ -1,0 +1,3744 @@
+{
+    "last_run_date": "2026-06-14",
+    "daily_count": 200,
+    "pages": {
+        "https://www.rameshdas.dev/": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/agentic-ai-developer.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/microservices-architecture.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/business-automation.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/freelancer.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/full-stack-ai-engineer.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/google9bae3598255dbb1e.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-abha.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-abu-dhabi.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-ajman.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-al-ain.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-al-daayen.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-al-khor.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-al-rayyan.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-al-wakrah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-austin.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-berlin.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-boston.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-brisbane.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-cambridge.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-dammam.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-dhahran.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-dibba-al-fujairah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-doha.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-dubai.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-dukhan.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-frankfurt.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-fujairah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-fukuoka.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-hamburg.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-hiroshima.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-jeddah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-jurong-east.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-khobar.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-khor-fakkan.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-kobe.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-kyoto.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-london.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uk",
+            "city": "london"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-lusail.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-madinat-ash-shamal.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-manchester.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-marina-bay.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-mecca.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-medina.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-melbourne.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-mesaieed.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-montreal.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-munich.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-nagoya.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-new-york.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-one-north.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-osaka.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-ras-al-khaimah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-riyadh.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-san-francisco.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-sapporo.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-seattle.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-sendai.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-sharjah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-singapore.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-stuttgart.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-sydney.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-tabuk.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-tampines.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-tokyo.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-toronto.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-umm-al-quwain.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-umm-salal.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-vancouver.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-yanbu.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu"
+        },
+        "https://www.rameshdas.dev/hire-agentic-ai-engineer-yokohama.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-abha.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-abu-dhabi.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-ajman.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-al-ain.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-al-daayen.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-al-khor.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-al-rayyan.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-al-wakrah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-austin.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-berlin.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-boston.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-brisbane.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-cambridge.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-dammam.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-dhahran.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-dibba-al-fujairah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-doha.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-dubai.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-dukhan.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-frankfurt.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-fujairah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-fukuoka.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-hamburg.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-hiroshima.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-jeddah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-jurong-east.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-khobar.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-khor-fakkan.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-kobe.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-kyoto.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-london.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uk",
+            "city": "london"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-lusail.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-madinat-ash-shamal.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-manchester.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-marina-bay.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-mecca.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-medina.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-melbourne.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-mesaieed.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-montreal.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-munich.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-nagoya.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-new-york.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-one-north.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-osaka.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-ras-al-khaimah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-riyadh.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-san-francisco.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-sapporo.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-seattle.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-sendai.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-sharjah.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-singapore.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-stuttgart.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-sydney.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-tabuk.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-tampines.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-tokyo.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-toronto.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-umm-al-quwain.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-umm-salal.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-vancouver.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-yanbu.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer-yokohama.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama"
+        },
+        "https://www.rameshdas.dev/hire-ai-full-stack-engineer.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "core",
+            "country": null,
+            "city": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-abha.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-abu-dhabi.html": {
+            "last_submitted": "2026-06-14T06:54:13.083133+00:00",
+            "status": "submitted",
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-osaka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:41.192071+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-jurong-east.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:41.986682+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-ras-al-khaimah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:42.788605+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-jeddah.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:43.583871+00:00"
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-dhahran.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:44.382458+00:00"
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-one-north.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:45.181941+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-toronto.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:46.005337+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-mesaieed.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:46.810250+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-stuttgart.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:47.605737+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-dhahran.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:48.409935+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-ras-al-khaimah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:49.205045+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-khor-fakkan.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:49.998172+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-khor-fakkan.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:50.797933+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-seattle.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:51.591964+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-riyadh.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:52.389027+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-tampines.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:53.181556+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-tabuk.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:53.985552+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-dhahran.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:54.789254+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-manchester.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:55.588061+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-austin.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:56.402048+00:00"
+        },
+        "https://www.rameshdas.dev/hire-developers-usa.html": {
+            "category": "hub",
+            "country": "usa",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:33.841694+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-umm-al-quwain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:57.197294+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-kobe.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:57.992731+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-tokyo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:58.799414+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:59.591693+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-berlin.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:00.389328+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-san-francisco.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:01.181992+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-mesaieed.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:01.981040+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-dhahran.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:02.837702+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-doha.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:03.634318+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-new-york.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:04.429820+00:00"
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-al-daayen.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:05.231824+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-singapore.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:06.024820+00:00"
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-riyadh.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:06.833307+00:00"
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-umm-al-quwain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:07.634142+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-yanbu.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:08.429328+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-sendai.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:09.249007+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-tokyo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:10.045361+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-one-north.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:10.846720+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-abu-dhabi.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:11.644506+00:00"
+        },
+        "https://www.rameshdas.dev/hire-developers-uk.html": {
+            "category": "hub",
+            "country": "uk",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:34.657006+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-munich.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:12.440022+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-jurong-east.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:13.237528+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-kyoto.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:14.028579+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-cambridge.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:14.828461+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-al-rayyan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:15.621604+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-kobe.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:16.416101+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-singapore.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:17.212331+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-al-wakrah.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:18.005418+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-riyadh.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh",
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:08:18.805185+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-abu-dhabi.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-hiroshima.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-ajman.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-munich.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-dammam.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-hamburg.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-dibba-al-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-al-wakrah.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-stuttgart.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-tokyo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-dammam.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-abha.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-dukhan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-montreal.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-madinat-ash-shamal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-developers-saudi-arabia.html": {
+            "category": "hub",
+            "country": "saudi-arabia",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:35.473942+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-london.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "london",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-developers-germany.html": {
+            "category": "hub",
+            "country": "germany",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:36.350118+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-al-daayen.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-sendai.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-london.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "london",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-khobar.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-sharjah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-umm-salal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-al-ain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-london.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "london",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-berlin.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-one-north.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-abu-dhabi.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-montreal.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-sharjah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-tokyo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-hiroshima.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-sendai.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-abha.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-kobe.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-cambridge.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-london.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "london",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-tabuk.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-al-rayyan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-khor-fakkan.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-fukuoka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-kobe.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-cambridge.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-al-rayyan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-boston.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-khobar.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-umm-salal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-madinat-ash-shamal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-hamburg.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-abu-dhabi.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-osaka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-dubai.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-dukhan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-austin.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-sharjah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-marina-bay.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-doha.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-yanbu.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-london.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "london",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-austin.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-osaka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-abha.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-manchester.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-jurong-east.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-stuttgart.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-seattle.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-one-north.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-toronto.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-mecca.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-melbourne.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-melbourne.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-al-wakrah.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-al-rayyan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-marina-bay.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-sapporo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-developers-australia.html": {
+            "category": "hub",
+            "country": "australia",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:37.163445+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-munich.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-mecca.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-austin.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-lusail.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer.html": {
+            "category": "core",
+            "country": null,
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:29.448519+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-doha.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-singapore.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-abha.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-montreal.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-fukuoka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-al-wakrah.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-medina.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-kyoto.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-dukhan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-madinat-ash-shamal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-fukuoka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-berlin.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-riyadh.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-al-ain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-one-north.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-al-khor.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-frankfurt.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-al-ain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-singapore.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-dukhan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-developers-canada.html": {
+            "category": "hub",
+            "country": "canada",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:37.975865+00:00"
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-al-daayen.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-lusail.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-manchester.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-umm-salal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-kyoto.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-melbourne.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-tampines.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-medina.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-kobe.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-nagoya.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-ajman.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-sydney.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-khobar.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-al-rayyan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-lusail.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-sendai.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-sydney.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-al-khor.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-sydney.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-sendai.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-yokohama.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-brisbane.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-umm-al-quwain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-tabuk.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-brisbane.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-marina-bay.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-nagoya.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-developers-japan.html": {
+            "category": "hub",
+            "country": "japan",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:38.775760+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-sydney.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-al-wakrah.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-singapore.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-tampines.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-sharjah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-marina-bay.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-sharjah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-hamburg.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-dammam.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-osaka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-sapporo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-seattle.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-toronto.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-yanbu.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-frankfurt.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-jeddah.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer.html": {
+            "category": "core",
+            "country": null,
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:30.269874+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-tokyo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-abu-dhabi.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "abu-dhabi",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-mesaieed.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-mecca.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-mecca.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-jurong-east.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-tabuk.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-hamburg.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-new-york.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-lusail.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-nagoya.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-jurong-east.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-hiroshima.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-mecca.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-kobe.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kobe",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-berlin.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-toronto.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-stuttgart.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-sharjah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "sharjah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-hamburg.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-mesaieed.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-madinat-ash-shamal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-umm-salal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-khobar.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-cambridge.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-sapporo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-yanbu.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-kyoto.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-riyadh.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-boston.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-al-khor.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-boston.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-ajman.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-tampines.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-san-francisco.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-dibba-al-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-london.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "london",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-cambridge.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-boston.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-jurong-east.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "jurong-east",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-doha.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-yokohama.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-montreal.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-austin.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-new-york.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-new-york.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-dibba-al-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-jeddah.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-dibba-al-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-al-rayyan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-rayyan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-lusail.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-vancouver.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-ajman.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-al-wakrah.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-wakrah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-dubai.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-hiroshima.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-jeddah.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-kyoto.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-boston.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-austin.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "austin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-vancouver.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-dibba-al-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-riyadh.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "riyadh",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-new-york.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-brisbane.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-manchester.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/sitemap.html": {
+            "category": "core",
+            "country": null,
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:31.368611+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-khobar.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-medina.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-tabuk.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-boston.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "boston",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-frankfurt.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-madinat-ash-shamal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-yokohama.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-munich.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-marina-bay.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-montreal.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-ras-al-khaimah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-dammam.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-tampines.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-umm-al-quwain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-dubai.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-mecca.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "mecca",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-melbourne.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-ras-al-khaimah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-stuttgart.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-umm-al-quwain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-mesaieed.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-san-francisco.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-doha.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-munich.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-munich.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "munich",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-san-francisco.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-vancouver.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-dukhan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-al-daayen.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-dubai.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-developers-singapore.html": {
+            "category": "hub",
+            "country": "singapore",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:39.586570+00:00"
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-lusail.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "lusail",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-ras-al-khaimah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-dhahran.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-cambridge.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "cambridge",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-kyoto.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "kyoto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-developers-middle-east.html": {
+            "category": "hub",
+            "country": "middle-east",
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:40.382451+00:00"
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-brisbane.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-singapore.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "singapore",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-frankfurt.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-yokohama.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-medina.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-jeddah.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-vancouver.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-al-khor.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-tabuk.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "tabuk",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-mesaieed.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "mesaieed",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-san-francisco.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-yokohama.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-nagoya.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-yanbu.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-sapporo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-khor-fakkan.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-brisbane.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-frankfurt.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-yanbu.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "yanbu",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-jeddah.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "jeddah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-stuttgart.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "stuttgart",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-hiroshima.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-vancouver.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-dammam.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-dibba-al-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-al-khor.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-umm-al-quwain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "umm-al-quwain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-sydney.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-brisbane.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "brisbane",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-fukuoka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-al-ain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-dubai.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-fujairah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "fujairah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-khor-fakkan.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-melbourne.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-al-khor.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-khor",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-toronto.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-dubai.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "dubai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-ajman.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-fukuoka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-fukuoka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "fukuoka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-al-ain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-umm-salal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/pinterest-6f253.html": {
+            "category": "core",
+            "country": null,
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:32.219538+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-dhahran.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dhahran",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-ras-al-khaimah.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ras-al-khaimah",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-tampines.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "tampines",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-dukhan.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "dukhan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-sendai.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sendai",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-frankfurt.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "frankfurt",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-berlin.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-yokohama.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "yokohama",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-nagoya.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-one-north.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "one-north",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-medina.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-doha.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "doha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-manchester.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-osaka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-new-york.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "new-york",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-marina-bay.html": {
+            "category": "city_page",
+            "country": "singapore",
+            "city": "marina-bay",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-medina.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "medina",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-hamburg.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "hamburg",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-khor-fakkan.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "khor-fakkan",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-seattle.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-khobar.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "khobar",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-al-daayen.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-nagoya.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "nagoya",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-umm-salal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "umm-salal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-full-stack-developer-toronto.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "toronto",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/presentation.html": {
+            "category": "core",
+            "country": null,
+            "city": null,
+            "status": "submitted",
+            "last_submitted": "2026-06-14T07:07:33.036454+00:00"
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-berlin.html": {
+            "category": "city_page",
+            "country": "germany",
+            "city": "berlin",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-san-francisco.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "san-francisco",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-vancouver.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "vancouver",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-manchester.html": {
+            "category": "city_page",
+            "country": "uk",
+            "city": "manchester",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-sapporo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-hiroshima.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "hiroshima",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-dammam.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "dammam",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-al-daayen.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "al-daayen",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-seattle.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-sapporo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "sapporo",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-ajman.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "ajman",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-sydney.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "sydney",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-architect-melbourne.html": {
+            "category": "city_page",
+            "country": "australia",
+            "city": "melbourne",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-seattle.html": {
+            "category": "city_page",
+            "country": "usa",
+            "city": "seattle",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-rag-developer-al-ain.html": {
+            "category": "city_page",
+            "country": "uae",
+            "city": "al-ain",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-llm-engineer-osaka.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "osaka",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-fastapi-developer-abha.html": {
+            "category": "city_page",
+            "country": "saudi-arabia",
+            "city": "abha",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-madinat-ash-shamal.html": {
+            "category": "city_page",
+            "country": "qatar",
+            "city": "madinat-ash-shamal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-montreal.html": {
+            "category": "city_page",
+            "country": "canada",
+            "city": "montreal",
+            "status": "pending",
+            "last_submitted": null
+        },
+        "https://www.rameshdas.dev/hire-backend-engineer-tokyo.html": {
+            "category": "city_page",
+            "country": "japan",
+            "city": "tokyo",
+            "status": "pending",
+            "last_submitted": null
+        }
+    }
+}
