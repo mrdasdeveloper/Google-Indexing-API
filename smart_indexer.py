@@ -1,14 +1,11 @@
 import os, sys
 # Ensure script runs from the root directory
-GOOGLE_INDEX_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.dirname(os.path.dirname(GOOGLE_INDEX_DIR))
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+GOOGLE_INDEX_DIR = ROOT_DIR
 if os.getcwd() != ROOT_DIR:
     os.chdir(ROOT_DIR)
 if ROOT_DIR not in sys.path:
     sys.path.insert(0, ROOT_DIR)
-SCRIPTS_DIR = os.path.join(ROOT_DIR, 'scripts')
-if SCRIPTS_DIR not in sys.path:
-    sys.path.insert(0, SCRIPTS_DIR)
 
 #!/usr/bin/env python3
 """
@@ -259,8 +256,12 @@ def load_state() -> dict:
     # Migrate from indexing_progress_v2.json if it exists
     v2_path = "indexing_progress_v2.json"
     if os.path.exists(v2_path):
-        with open(v2_path, "r") as f:
-            v2 = json.load(f)
+        try:
+            with open(v2_path, "r") as f:
+                v2 = json.load(f)
+        except json.JSONDecodeError:
+            v2 = {}
+            print(f"  [warn] {v2_path} is empty or corrupt. Skipping migration.")
 
         # Carry over today's quota usage
         if v2.get("last_run_date") == today_str():
