@@ -12,6 +12,36 @@ We built this script because manual submission through Search Console simply doe
 
 By using this automated script, you force Google to acknowledge your content within minutes. Faster indexing means you secure your keyword rankings first.
 
+## 🎯 Quick Start Guide for Digital Marketers (Non-Technical)
+
+If you are a digital marketer, SEO specialist, or content manager, you don't need to be a programmer to use this tool! Here is the plain-English guide to getting your pages indexed instantly.
+
+### What Does This Do?
+Usually, you have to wait days or weeks for Google to randomly crawl your website and find your new content. This script acts like a VIP pass. It directly taps Google on the shoulder and says, *"Hey, we just published these pages. Index them right now."* 
+
+### Step 1: Add Your Links
+1. Open the file named `main-urls.txt` (it is located in this same folder).
+2. Paste the full URLs of the new pages you want to index, one per line. (e.g., `https://www.rameshdas.dev/new-blog-post.html`)
+3. Save the file.
+
+### Step 2: Run the Magic Command
+Open your terminal (or command prompt), make sure you are in this folder, and copy-paste this exact command:
+```bash
+python3 smart_indexer.py --url-file main-urls.txt
+```
+Press **Enter**. The script will automatically talk to Google and submit your URLs!
+
+### Step 3: Read the Report
+The tool will show you a colorful dashboard. Look for:
+- **✅ Submitted**: The pages Google successfully received.
+- **📈 Used today**: You can submit up to **200 pages every single day**. The tool tracks this automatically so you never accidentally go over the limit.
+
+### Just Checking Status?
+If you just want to see how many pages are pending or submitted *without* actually sending anything new to Google, run:
+```bash
+python3 smart_indexer.py --report
+```
+
 ## Authenticating Your Access
 
 You cannot talk to the Indexing API without proving who you are. That requires a Service Account JSON key.
